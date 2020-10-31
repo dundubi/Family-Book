@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: khaki;
+}
+
+#book{
+    width: 300px;
+    height: 400px;
+}
+
+h1{
+    color: maroon;
+    font-family: 'Sansita Swashed', cursive;
+}
+#img{
+    width: 200px;
+    height: 200px;
+}
+
+#names{
+    font-family: cursive;
+    font-size: large;
+}
